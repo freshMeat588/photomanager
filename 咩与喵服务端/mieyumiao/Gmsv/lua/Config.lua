@@ -1,0 +1,10 @@
+useModule("laba");
+useModule("myLogin");
+useModule("mapProc");
+useModule("CastleAttackNPC");
+useModule("EasyTalk");
+useModule("PetCalc");
+useModule("NewbieBless");
+useModule("OneLevelPet");
+useModule("OnlinePlayer");
+useModule("LvOnePe");
